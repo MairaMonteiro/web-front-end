@@ -1,0 +1,75 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #27272B;
+    color: honeydew;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 5px;
+    width: auto;
+}
+
+.Maira{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 10%;
+    border-radius: 50%;
+    margin-top: 45px;
+}
+h1 {
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.Contato {
+    position: relative;
+    font-size: 4mm;
+    border: 2px solid gray;
+    text-align: center;
+    text-justify: auto;
+    border-radius: 2mm;
+    padding: 1mm;
+}
+.contato.contato {
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: relative;
+}
+
+.red h3{
+    text-align: center;
+    background-color: #ff514d;
+    position: absolute;
+    height: 3mm;
+    width: 40mm;
+    top: 400px;
+    left: 600px;
+}
+
+.education{
+    position: relative;
+    text-align: center;
+    font-size: 4mm;
+    top: 120px;
+    left: center;
+}
+#blue h3{
+    background-color: #3940C4;
+    position: absolute;
+    height: 3mm;
+    width: 40mm;
+    top: 680px;
+    left: 600px;
+    text-align: center;
+}
+.expert{
+    position: relative;
+    text-align: center;
+    font-size: 4mm;
+    top: 120px;
+    left: center;
+}
