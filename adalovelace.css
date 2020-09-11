@@ -8,3 +8,15 @@ body{
   h2{
     color: #2a0074;
   }
+
+  .titulo-verde{
+    color: #04ff9f;
+  }
+  
+  .titulo-vermelho{
+    color: #ff9e9e;
+  }
+  
+  .titulo-amarelo{
+    color: #ffe36d;
+  }
