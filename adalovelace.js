@@ -5,6 +5,6 @@ function validaForms() {
   && document.getElementById("phone").value != ""){
     alert("Prontinho! Você receberá as novidades por e-mail! ")
   }else{
-    alert("Por favor, preencha os campos nome e email!")
+    alert("Por favor, preencha os campos nome, email e telefone!")
   }
 }

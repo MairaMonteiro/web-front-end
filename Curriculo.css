@@ -10,6 +10,21 @@ body{
     width: auto;
 }
 
+ul{
+    list-style-type: none;
+    line-height: 2;
+    padding-left: 0;
+}
+.Contato li{
+    display: inline-block;
+}
+.mini{
+    font-weight: normal;
+    color: #FFF;
+    height: 40px;
+    max-width: 60%;
+    margin: 0 auto;
+}
 .Maira{
     display: block;
     margin-right: auto;
@@ -29,7 +44,7 @@ h5{
     font-size: 4mm;
     border: 2px solid gray;
     text-align: center;
-    text-justify: auto;
+    display: inline-block;
     border-radius: 2mm;
     padding: 1mm;
 }
